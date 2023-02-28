@@ -1,0 +1,46 @@
+.small-image {
+  width: 220px;
+  border-radius: 10px;
+  height: 250px;
+}
+.small-title {
+  font-size: 15px;
+  color: #12022f;
+  font-family: roboto;
+}
+.small-brand {
+  font-size: 15px;
+  color: #616e7c;
+  font-family: roboto;
+}
+.small-price {
+  font-size: 15px;
+  font-family: Roboto;
+  color: #12022f;
+  font-weight: bold;
+}
+
+.rating-div-small {
+  background-color: #3b82f6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  margin-left: 30px;
+  margin-top: 10px;
+  color: white;
+  font-weight: bold;
+}
+.price-div-small {
+  display: flex;
+}
+.list-items {
+  list-style-type: none;
+  margin-right: 40px;
+}
+.stars {
+  font-size: 25px;
+}
